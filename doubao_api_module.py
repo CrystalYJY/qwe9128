@@ -19,7 +19,7 @@ class DoubaoAPIModule:
         # 初始化OpenAI客户端，配置豆包API
         self.client = OpenAI(
             base_url="https://ark.cn-beijing.volces.com/api/v3",  # 豆包API endpoint
-            api_key="4cf75ba1-9bb7-4004-9b13-39510f9afe29",  # 替换为你的豆包API key
+            api_key="---",  # 替换为你的豆包API key
             http_client=http_client  # 使用自定义HTTP客户端，启用连接复用
         )
         self.model_name = "doubao-seed-1-6-vision-250815"  # 你的模型接入点ID
