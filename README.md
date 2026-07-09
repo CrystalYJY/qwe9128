@@ -22,9 +22,9 @@
 
 ## 演示视频
 
-实体机器人交互演示视频：https://youtu.be/5RitVIL6RVA?si=vVh2BY2ncgeWqaHH
+实体机器人交互演示视频：
 
-**视频链接：待补充**
+**视频链接：https://youtu.be/5RitVIL6RVA?si=vVh2BY2ncgeWqaHH**
 
 视频展示了用户与实体机器人进行自然交互的过程，包括语音输入、VLM 语义理解、机器人语音反馈和注视行为。
 
