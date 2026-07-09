@@ -24,7 +24,7 @@ class VLMPromptDebugger:
         
         self.client = OpenAI(
             base_url="https://ark.cn-beijing.volces.com/api/v3",
-            api_key="4cf75ba1-9bb7-4004-9b13-39510f9afe29",
+            api_key="---",
             http_client=http_client,
         )
         self.model_name = "doubao-seed-1-6-flash-250828"
