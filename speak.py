@@ -10,7 +10,6 @@ from robot_env import RobotEnv
 # ===== 已禁用：表情模块 =====
 # from simple_emotion_test import SimpleEmotionTest
 from conversation_logger import ConversationSessionLogger
-from joint_attention_evaluator import JointAttentionEvaluator
 from strawberry_ros_msgs.msg import Skeletons
 from types import SimpleNamespace
 import time
