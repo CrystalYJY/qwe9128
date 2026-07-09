@@ -4,9 +4,9 @@
 """
 
 # 讯飞配置 - 请替换为你的实际值
-XUNFEI_APPID = "a8febd83"      # 应用 ID
-XUNFEI_API_KEY = "1f855c874cf9b7672a87f1fd64e5f545"    # API Key
-XUNFEI_API_SECRET = "YzgwMGY3NzljYjkyNGJhNWUxMzk2Y2Uy"  # API Secret
+XUNFEI_APPID = "--"      # 应用 ID
+XUNFEI_API_KEY = "--"    # API Key
+XUNFEI_API_SECRET = "--"  # API Secret
 
 # ASR 参数配置（语音听写流式版）
 ASR_CONFIG = {
